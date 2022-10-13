@@ -11,9 +11,13 @@ Bobby is an up-and-coming HR analyst whose task is to perform employee research.
 
 But now, they have decided to update their methods to use SQL, a definite upgrade considering the amount of data. Your task is to help Bobby build an employee database with SQL by applying your data modeling, engineering, and analysis skills.
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
+## Summary: 
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
