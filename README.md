@@ -1,9 +1,7 @@
 # Pewlett Hackard employees
-UC Berkeley BootCamp challenge 7 (SQL)
 
 ## The Purpose
-In framework of the current challenge we should help Bobby, up-and-coming HR analyst at Pewlett Hackard.
-Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future in two ways. 
+In the framework of the current challenge we should help Bobby, up-and-coming HR analyst at Pewlett Hackard. Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future in two ways. 
 The number of upcoming retirements will leave thousands of job openings. The company has to look ahead and prepare for this many vacancies. Specifically, Boby needs to find answers to the following questions: Who will be retiring in the next few years? And how many positions will Pewlett Hackard need to fill?
 We will contribute by helping Bobby build an employee database with SQL by applying your data modeling, engineering, and analysis skills.
 
