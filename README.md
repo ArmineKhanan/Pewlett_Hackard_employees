@@ -5,7 +5,7 @@ In the framework of the current challenge we should help Bobby, up-and-coming HR
 
 The number of upcoming retirements will leave thousands of job openings. The company has to look ahead and prepare for this many vacancies. Specifically, Boby needs to find answers to the following questions: Who will be retiring in the next few years? And how many positions will Pewlett Hackard need to fill?
 
-We will contribute by helping Bobby build an employee database with SQL by applying your data modeling, engineering, and analysis skills.
+We will contribute by helping Bobby build an employee database with SQL by applying data modeling, engineering, and analysis skills.
 
 ## Results: 
 
