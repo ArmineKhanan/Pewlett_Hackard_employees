@@ -12,6 +12,7 @@ Here are key findings:
 1. 72458 employees will leave the company due to the upcoming retirement age
 
 2. The most vacancies will open for 'Senior Engeneer' and 'Senior Staff' job titles
+
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Are%20there%20enough%20qualified%20employees.png" width="800" />
 
 3. Only 2 vacancy will open for the job title 'Manager'
@@ -20,8 +21,7 @@ Here are key findings:
 
 ## Summary: 
 
-The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard, Yet the talants not only have to be identified and recruited but also be led by workplace mentors.
+The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard. However, the talants not only have to be identified and recruited but also be led by workplace mentors. The table below illustrates how prepared the company is in terms of the number of potential mentors per each job title: 
 
-The table below illustrates how prepared the company is in terms of the number of potential mentors per each job title:
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/How%20many%20roles%20will%20need%20to%20be%20filled.png" width="800" />
 
