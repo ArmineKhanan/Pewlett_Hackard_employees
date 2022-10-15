@@ -23,7 +23,9 @@ Here are key findings:
 
 ## Summary: 
 
-The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard. However, the talants not only have to be identified and recruited but also be led by workplace mentors. The table below illustrates how prepared the company is in terms of the number of potential mentors per each job title: 
+The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard. However, the talants not only have to be identified and recruited but also be led by workplace mentors. 
+
+The table below illustrates how prepared the company is in terms of the number of potential mentors per each job title: 
 
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/How%20many%20roles%20will%20need%20to%20be%20filled.png" width="800" />
 
