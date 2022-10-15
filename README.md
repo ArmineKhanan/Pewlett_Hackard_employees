@@ -10,10 +10,14 @@ We will contribute by helping Bobby build an employee database with SQL by apply
 ## Results: 
 
 Here are key findings:
+
 1. 72458 employees will leave the company due to the upcoming retirement age
+
 2. The most vacancies will open for 'Senior Engeneer' and 'Senior Staff' job titles
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Are%20there%20enough%20qualified%20employees.png" width="800" />
+
 3. Only 2 vacancy will open for the job title 'Manager'
+
 4. There are 1549 employees with respectful experience to mentor the upcoming staff
 
 ## Summary: 
