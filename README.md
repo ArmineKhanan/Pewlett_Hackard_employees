@@ -2,22 +2,24 @@
 UC Berkeley BootCamp challenge 7 (SQL)
 
 ## The Purpose
-Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future in two ways. First, it's offering a retirement package for those who meet certain criteria. Second, it's starting to think about which positions will need to be filled in the near future.
-
-The number of upcoming retirements will leave thousands of job openings. What would happen to a company if they didn't look ahead and prepare for this many vacancies? It probably wouldn't be pretty.
-
-Bobby is an up-and-coming HR analyst whose task is to perform employee research. Specifically, he needs to find answers to the following questions: Who will be retiring in the next few years? And how many positions will Pewlett Hackard need to fill? This analysis will help future-proof Pewlett Hackard by generating a list of all employees eligible for the retirement package. The employee data Bobby needs is only available in the form of six CSV files because Pewlett Hackard has been mainly using Excel and VBA to work with their data.
-
-But now, they have decided to update their methods to use SQL, a definite upgrade considering the amount of data. Your task is to help Bobby build an employee database with SQL by applying your data modeling, engineering, and analysis skills.
+In framework of the current challenge we should help Bobby, up-and-coming HR analyst at Pewlett Hackard.
+Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future in two ways. 
+The number of upcoming retirements will leave thousands of job openings. The company has to look ahead and prepare for this many vacancies. Specifically, Boby needs to find answers to the following questions: Who will be retiring in the next few years? And how many positions will Pewlett Hackard need to fill?
+We will contribute by helping Bobby build an employee database with SQL by applying your data modeling, engineering, and analysis skills.
 
 ## Results: 
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+Here are key findings:
+1. 72458 employees will leave the company due to the upcoming retirement age
+2. The most vacancies will open for 'Senior Engeneer' and 'Senior Staff' job titles
+<img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Are%20there%20enough%20qualified%20employees.png" width="800" />
+3. Only 2 vacancy will open for the job title 'Manager'
+4. There are 1549 employees with respectful experience to mentor the upcoming staff
 
 ## Summary: 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard, Yet the talants not only have to be identified and recruited but also be led by workplace mentors.
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+The table below illustrates how prepared the company is in terms of the number of potential mentors per each job title:
+<img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/How%20many%20roles%20will%20need%20to%20be%20filled.png" width="800" />
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
