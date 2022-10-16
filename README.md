@@ -17,8 +17,6 @@ Here are key findings:
 
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/How%20many%20roles%20will%20need%20to%20be%20filled.png" width="800" />
 
-<img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Are%20there%20enough%20qualified%20employees.png" width="800" />
-
 3. Only 2 vacancy will open for the job title 'Manager'
 
 4. There are 1549 employees with respectful experience to mentor the upcoming staff
