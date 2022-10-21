@@ -11,7 +11,7 @@ We will contribute by helping Bobby build an employee database with SQL by apply
 ### DataBase
 Our database designed based on 6 CSV files, each having a table with different column names and granularity level. They related via primary and foriegn keys and inforced on SQL side, the script of which you can find in the current repostitory: [DB_Creation.sql](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/DB_Creation.sql). The ERD created on [www.quickdatabasediagrams.com](https://www.quickdatabasediagrams.com/) platform is presented below.
 
-<img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/ERD.pngwidth="800" />
+<img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/ERD.png" width="800" />
 
 ### Findings
 
