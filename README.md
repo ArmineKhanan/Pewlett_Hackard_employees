@@ -7,7 +7,13 @@ The number of upcoming retirements will leave thousands of job openings. The com
 
 We will contribute by helping Bobby build an employee database with SQL by applying data modeling, engineering, and analysis skills.
 
-## Results: 
+## Results
+### DataBase
+Our database designed based on 6 CSV files, each having a table with different column names and granularity level. They related via primary and foriegn keys and inforced on SQL side, the script of which you can find in the current repostitory: [DB_Creation.sql](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/DB_Creation.sql). The ERD created on [www.quickdatabasediagrams.com](https://www.quickdatabasediagrams.com/) platform is presented below.
+
+<img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/ERD.pngwidth="800" />
+
+### Findings
 
 Here are key findings:
 
@@ -21,7 +27,7 @@ Here are key findings:
 
 4. There are 1549 employees with respectful experience to mentor the upcoming staff
 
-## Summary: 
+## Summary
 
 The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard. However, the talants not only have to be identified and recruited but also be led by workplace mentors. 
 
