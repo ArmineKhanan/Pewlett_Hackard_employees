@@ -32,4 +32,4 @@ The table below illustrates how prepared the company is as regards the number of
 
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Are%20there%20enough%20qualified%20employees.png" width="800" />
 
-From the table, it becomes clear the employees qualified as mentors will have to take care of about 30 to 40 new employees each. That's a huge workload. That's why we would recommend broadening the qualification criteria for mentors. As a result, more people will get involved in the mentorship program, and the anticipated load of every mentor will be less.
+From the table, it becomes clear the employees qualified as mentors will have to take care of about 40 new employees each. That's a huge workload. That's why we would recommend broadening the qualification criteria for mentors. As a result, more people will get involved in the mentorship program, and the anticipated load of every mentor will be less.
