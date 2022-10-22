@@ -15,16 +15,13 @@ Our database was designed based on 6 CSV files, each having a table with differe
 
 ### Findings
 
-Here are key findings:
-
+Here are the key findings we could discover with the help of SQL code you can find in the current repository: [Employee_Database_challenge.sql](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Employee_Database_challenge.sql)
 1. 72458 employees will leave the company due to the upcoming retirement age
-
-2. The most vacancies will open for 'Senior Engeneer' and 'Senior Staff' job titles
+2. Most vacancies will open for 'Senior Engineer' and 'Senior Staff' job titles
 
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/How%20many%20roles%20will%20need%20to%20be%20filled.png" width="800" />
 
-3. Only 2 vacancy will open for the job title 'Manager'
-
+3. Only two vacancies will open for the job title of 'Manager'
 4. There are 1549 employees with respectful experience to mentor the upcoming staff
 
 ## Summary
