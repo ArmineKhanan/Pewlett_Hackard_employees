@@ -14,7 +14,7 @@ Our database was designed based on 6 CSV files, each having a table with differe
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/ERD.png" width="800" />
 
 ### Deliverable 1
-* 
+[retiring_titles.csv]([retiring_titles.csv](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/retiring_titles.csv))
 ### Findings
 
 Here are the key findings we could discover with the help of SQL code you can find in the current repository: [Employee_Database_challenge.sql](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Employee_Database_challenge.sql)
