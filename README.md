@@ -26,7 +26,7 @@ Here are the key findings we could discover with the help of SQL code you can fi
 
 ## Summary
 
-The upcoming 'silver tsunami' will cause 72458 employees to retire. This fact turns out to be a hiring challenge for Pewlett Hackard. However, the talents not only have to be identified and recruited. The laters should also be led by workplace mentors.
+The upcoming 'silver tsunami' will cause 72458 employees to retire. This fact turns out to be a hiring challenge for Pewlett Hackard. However, the talents not only have to be identified and recruited. The laters should also be guided by workplace mentors.
 
 The table below illustrates how prepared the company is as regards the number of potential mentors per each job title.
 
