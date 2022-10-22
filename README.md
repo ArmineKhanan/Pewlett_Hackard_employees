@@ -13,6 +13,8 @@ Our database was designed based on 6 CSV files, each having a table with differe
 
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/ERD.png" width="800" />
 
+## Interim Results
+
 #### Deliverable 1
 [retiring_titles.csv](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/retiring_titles.csv)
 
