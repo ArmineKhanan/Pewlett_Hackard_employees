@@ -32,4 +32,7 @@ Here are key findings:
 The upcoming 'silver tsunamy' will cause 72458 employees to retire. This fact turns to be a hiring challenge for Pewlett Hackard. However, the talants not only have to be identified and recruited but also be led by workplace mentors. 
 
 The table below illustrates how prepared the company is in terms of the number of potential mentors per each job title: 
+
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/Are%20there%20enough%20qualified%20employees.png" width="800" />
+
+From the table it becomes obvious the employees qualified as mentors will have to take care of about 30 to 40 new employees each. This may became a huge workload challenge for them. That's why we would recommend to broaden the qualifacation criteria for mentors to engage more people and make the anticipated load of every mentor less.
