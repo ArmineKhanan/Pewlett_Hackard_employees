@@ -1,7 +1,7 @@
 # Pewlett Hackard employees
 
 ## The Purpose
-In the framework of the current challenge we should help Bobby, up-and-coming HR analyst at Pewlett Hackard. Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future. 
+In the framework of the current challenge, we should help Bobby, the up-and-coming HR analyst at Pewlett Hackard. Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future.
 
 The number of upcoming retirements will leave thousands of job openings. The company has to look ahead and prepare for this many vacancies. Specifically, Boby needs to find answers to the following questions: Who will be retiring in the next few years? And how many positions will Pewlett Hackard need to fill?
 
@@ -9,7 +9,7 @@ We will contribute by helping Bobby build an employee database with SQL by apply
 
 ## Results
 ### DataBase
-Our database designed based on 6 CSV files, each having a table with different column names and granularity level. They related via primary and foriegn keys and inforced on SQL side, the script of which you can find in the current repostitory: [DB_Creation.sql](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/DB_Creation.sql). The ERD created on [www.quickdatabasediagrams.com](https://www.quickdatabasediagrams.com/) platform is presented below.
+Our database was designed based on 6 CSV files, each having a table with different column names and granularity levels. They are related via primary and foreign keys and inforced on the SQL side, the script of which you can find in the current repository: [DB_Creation.sql](https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/DB_Creation.sql). The ERD created on [www.quickdatabasediagrams.com](https://www.quickdatabasediagrams.com/) platform is presented below.
 
 <img src="https://github.com/ArmineKhanan/Pewlett_Hackard_employees/blob/main/ERD.png" width="800" />
 
